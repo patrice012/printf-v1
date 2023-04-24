@@ -45,7 +45,7 @@ int _printf(const char *format, ...)
 		i++;
 	}
 
-	printf("value of j:%d", t_write);
+	printf("value of j:%d\n", t_write);
 
 	return (j);
 }
